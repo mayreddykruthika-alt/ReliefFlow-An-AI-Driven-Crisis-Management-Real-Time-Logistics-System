@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+psycopg[binary]
+pymongo
+bcrypt
+python-jose[cryptography]
+pydantic
+scikit-learn
+pandas
+numpy
+python-multipart
